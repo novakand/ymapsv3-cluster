@@ -6854,6 +6854,7 @@ async function initClusterer(map) {
     });
 
     map.addChild(clusterer);
+    
 }
 
 
