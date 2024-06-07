@@ -13,7 +13,7 @@ function onInitMapsAPI() {
             document.getElementById('map'),
             {
                 location: {
-                    center: [37.588144, 55.733842],
+                    center: [30.288002, 59.960778],
                     zoom: 10
                 }
             }
@@ -6854,7 +6854,7 @@ async function initClusterer(map) {
     });
 
     map.addChild(clusterer);
-    
+
 }
 
 
